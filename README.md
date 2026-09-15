@@ -15,6 +15,6 @@ TypeScript, JavaScript, Python, Java, SQL, Next.js, React, Flask, PostgreSQL, Su
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/richyeff)
-- [Kintampo African Market source](https://github.com/t4thick/kintampo-african-market)
-- [Prince Auto source](https://github.com/t4thick/prince-inventory-manager)
-- [Item7 Food Truck source](https://github.com/t4thick/project-foodtruck)
+- [Kintampo African Market source](https://github.com/richardeyeboah/kintampo-african-market)
+- [Prince Auto source](https://github.com/richardeyeboah/prince-inventory-manager)
+- [Item7 Food Truck source](https://github.com/richardeyeboah/project-foodtruck)
