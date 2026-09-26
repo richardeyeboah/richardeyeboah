@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Richard Effah Yeboah — Full-stack developer</title>
+<desc id="desc">Building software for real businesses. Commerce, operations, and reliable systems.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#17263b"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a5b4fc" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+<rect x="54" y="52" width="42" height="4" rx="2" fill="#5eead4"/>
+<text x="110" y="60" fill="#5eead4" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">RICHARDEYEBOAH / BUILDING WITH INTENT</text>
+<text x="54" y="133" fill="#f8fafc" font-family="Arial, sans-serif" font-size="49" font-weight="700">Richard Effah Yeboah</text>
+<text x="56" y="181" fill="#d5deea" font-family="Arial, sans-serif" font-size="25">Software for real businesses.</text>
+<text x="56" y="217" fill="#97abc4" font-family="Arial, sans-serif" font-size="19">Full-stack development · Commerce · Reliable systems</text>
+<rect x="56" y="264" width="358" height="32" rx="16" fill="#5eead4" fill-opacity=".09" stroke="#5eead4" stroke-opacity=".3"/>
+<circle cx="75" cy="280" r="4" fill="#5eead4"/>
+<text x="89" y="285" fill="#bff9ed" font-family="Arial, sans-serif" font-size="14">CS @ Grambling State University · Class of 2028</text>
+<g fill="none" stroke="url(#accent)" stroke-width="2">
+<rect x="890" y="65" width="235" height="205" rx="18" opacity=".4"/>
+<path d="M934 122l-23 23 23 23m144-46 23 23-23 23m-59-36-24 54" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M932 218h64m14 0h31m14 0h28" opacity=".6"/>
+<path d="M850 170h40m235 0h38M1007 25v40m0 205v44" opacity=".35"/>
+</g>
+<g fill="#5eead4"><circle cx="850" cy="170" r="4"/><circle cx="1163" cy="170" r="4"/><circle cx="1007" cy="25" r="4"/><circle cx="1007" cy="314" r="4"/></g>
+</svg>
