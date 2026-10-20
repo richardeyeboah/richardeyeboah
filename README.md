@@ -14,11 +14,26 @@ I'm a **Computer Science student at Grambling State University, graduating in Ma
 
 I enjoy the engineering behind the interface: validating payments, keeping inventory consistent, making offline retries safe, and testing the workflows people rely on.
 
-**My focus:** TypeScript & React interfaces · Python services · PostgreSQL data integrity
+**My focus:** Java distributed systems · TypeScript & React applications · Reliable data and recovery
 
 ---
 
 ## Selected builds
+
+### QuantaFs - distributed storage that recovers from server failure
+
+**Java, Raft, gRPC, RocksDB, Docker, and Kubernetes.** A key-value store with majority-committed
+writes, retry-safe sequential sessions, snapshots, and persistent recovery.
+
+https://github.com/user-attachments/assets/09bb0814-8f3d-41e4-a314-b02a347fb36b
+
+- **526 automated tests** plus a repeatable local Kubernetes failure/recovery demonstration.
+- Replaced the leader Pod, reused its persistent volume, and verified the saved data.
+- Demonstrated majority-loss refusal and recovery; published benchmark methodology and raw samples.
+
+[Watch the 70-second demo](https://github.com/user-attachments/assets/09bb0814-8f3d-41e4-a314-b02a347fb36b) · [Explore the code](https://github.com/richardeyeboah/QuantaFs) · [Read the evidence](https://github.com/richardeyeboah/QuantaFs/blob/main/docs/benchmarks.md)
+
+*Video: edited replay of a real local Kubernetes run; waits shortened. Three voters share one host.*
 
 ### 🛒 Kintampo African Market
 **A production storefront for an African and Caribbean grocery store in Columbus, Ohio.**
@@ -61,13 +76,13 @@ I enjoy the engineering behind the interface: validating payments, keeping inven
 TypeScript · JavaScript · Python · Java · SQL · HTML/CSS
 
 **Applications & APIs**  
-React · Next.js · Node.js · Flask · FastAPI · REST APIs
+React · Next.js · Node.js · Flask · FastAPI · REST APIs · gRPC · Protocol Buffers
 
 **Data & services**  
-PostgreSQL · Supabase · Redis · SQLAlchemy · Stripe
+PostgreSQL · Supabase · Redis · RocksDB · SQLAlchemy · Stripe
 
 **Testing & delivery**  
-Playwright · Vitest · Git · GitHub Actions · Vercel
+Playwright · Vitest · JUnit · Git · GitHub Actions · Docker · Kubernetes · Vercel
 
 ## Beyond the code
 
