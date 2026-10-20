@@ -25,13 +25,13 @@ I enjoy the engineering behind the interface: validating payments, keeping inven
 **Java, Raft, gRPC, RocksDB, Docker, and Kubernetes.** A key-value store with majority-committed
 writes, retry-safe sequential sessions, snapshots, and persistent recovery.
 
-https://github.com/user-attachments/assets/09bb0814-8f3d-41e4-a314-b02a347fb36b
+https://github.com/user-attachments/assets/dc12ddce-c965-4ef6-9ab4-46bf61bf3366
 
 - **526 automated tests** plus a repeatable local Kubernetes failure/recovery demonstration.
 - Replaced the leader Pod, reused its persistent volume, and verified the saved data.
 - Demonstrated majority-loss refusal and recovery; published benchmark methodology and raw samples.
 
-[Watch the 70-second demo](https://github.com/user-attachments/assets/09bb0814-8f3d-41e4-a314-b02a347fb36b) · [Explore the code](https://github.com/richardeyeboah/QuantaFs) · [Read the evidence](https://github.com/richardeyeboah/QuantaFs/blob/main/docs/benchmarks.md)
+[Watch the 70-second demo](https://github.com/user-attachments/assets/dc12ddce-c965-4ef6-9ab4-46bf61bf3366) · [Explore the code](https://github.com/richardeyeboah/QuantaFs) · [Read the evidence](https://github.com/richardeyeboah/QuantaFs/blob/main/docs/benchmarks.md)
 
 *Video: edited replay of a real local Kubernetes run; waits shortened. Three voters share one host.*
 
